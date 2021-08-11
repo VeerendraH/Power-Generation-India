@@ -1,0 +1,9 @@
+Model,R2
+         Logistic Regression,0.9993261455525606
+      Support Vector Machine,0.9993261455525606
+              Neural Network,0.9993261455525606
+               Decision Tree,0.9986522911051213
+         AdaBoost Classifier,0.9811320754716981
+          Bagging Classifier,0.9993261455525606
+Gradient Boosting Classifier,0.9993261455525606
+    Random Forest Classifier,0.9993261455525606
